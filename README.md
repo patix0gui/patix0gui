@@ -61,3 +61,7 @@
 <p align="center">
   ⚡ <i>"The quieter you become, the more you are able to hear."</i> ⚡
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patix0gui/patix0gui/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
