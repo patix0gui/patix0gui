@@ -65,3 +65,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/patix0gui/patix0gui/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+### 🐍 Snake eating my contributions
+
+![GitHub Snake dark](https://raw.githubusercontent.com/patix0gui/patix0gui/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://raw.githubusercontent.com/patix0gui/patix0gui/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+
