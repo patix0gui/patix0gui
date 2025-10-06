@@ -8,11 +8,12 @@
 
 
 <div>
-    <a href="https://github.com/patix0gui">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/username=patix0gui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patix0gui&layout=compact&langs_count=10&theme=dark"/>
-    </a>
+  <a href="https://github.com/patix0gui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patix0gui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patix0gui&layout=compact&langs_count=10&theme=dark"/>
+  </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GUI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
