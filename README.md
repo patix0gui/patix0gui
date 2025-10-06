@@ -63,8 +63,7 @@
 </p>
 
 
-### 🐍 Snake eating my contributions
+### 🐍 Snake animation
 
-![GitHub Snake dark](https://raw.githubusercontent.com/patix0gui/patix0gui/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://raw.githubusercontent.com/patix0gui/patix0gui/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+![Snake dark](https://raw.githubusercontent.com/patix0gui/patix0gui/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/patix0gui/patix0gui/main/dist/github-contribution-grid-snake-light.svg#gh-light-mode-only)
